@@ -3,3 +3,5 @@ Tutorials Used
 
 converting string to unix timestamp: http://php.net/manual/en/function.strtotime.php
 comparing two unix timestamps: https://stackoverflow.com/questions/11163529/comparing-unix-timestamps
+
+login credentials: username, quinnedy  password, apassword

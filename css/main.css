@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'moon-bold';
+  src: url(../fonts/moon_bold-webfont.woff2) format("woff2"), url(../fonts/moon_bold-webfont.woff) format("woff");
+}
+
+body{
+  margin: auto 0;
+  text-align: center;
+  font-family: 'moon-bold';
+  color: #3a3a3a;
+  background: url(../img/background.jpeg);
+}
+
+
+
+label{
+  font-size: 2.5em;
+  margin-top:20px;
+  margin-bottom:20px;
+  display: block;
+
+}
+
+
+input{
+  border-radius: 15px;
+  border-width: 1px;
+  width:20%;
+  height:50px;
+  font-size: 2em;
+  margin-top:20px;
+  margin-bottom:20px;
+  display: block;
+}
+
+#loginform{
+  margin-top: 100px;
+}
+
+.indexlink{
+  display: block;
+  text-decoration: none;
+  color: #3a3a3a;
+  font-size: 1.8em;
+  margin-top:50px;
+  margin-bottom:50px;
+}
+
+h1{
+  margin-top:100px;
+  font-size: 3em;
+}
+
+.changepassword{
+  margin-left: 40%;
+}
+
+#createheader{
+  font-size:2em;
+}
+
+#homelink{
+  text-decoration: none;
+  color:#3a3a3a;
+  font-size: 2.5em;
+  margin-top: 150px;
+}
+
+.firelink{
+  font-size:3em;
+}
